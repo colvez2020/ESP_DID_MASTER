@@ -5,6 +5,7 @@
 #include "CTRL_SONIC.h"
 #include "TRAMAS_COM.h"
 
+// Deybar estuvo aquí :P solisitud de cambio
 
 ULTRA_SONIC Soinc_DID(25);                    //Controla lectura de los ultrasonicos
 CONTROL_MSG Main_msg;                         //Crea 2 streams Serial (HDMI SW y BLUE HW) + MASTES I2C
