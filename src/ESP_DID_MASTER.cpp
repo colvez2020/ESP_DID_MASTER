@@ -5,6 +5,11 @@
 #include "CTRL_SONIC.h"
 #include "TRAMAS_COM.h"
 
+////////////////////////////////////////////////////////////////////////
+//version de debug
+//8/02/2023
+//branch inicial debug_master
+////////////////////////////////////////////////////////////////////////
 
 ULTRA_SONIC Soinc_DID(25);                    //Controla lectura de los ultrasonicos
 CONTROL_MSG Main_msg;                         //Crea 2 streams Serial (HDMI SW y BLUE HW) + MASTES I2C
